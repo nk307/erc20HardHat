@@ -1,42 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/namankabra/erc20HardHat/erc20Token/contracts/MyToken.sol": {
-      "lastModificationDate": 1674391370921,
-      "contentHash": "d695645ff4e36dfb84207a3174ad5494",
-      "sourceName": "contracts/MyToken.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "MyToken"
-      ]
-    },
-    "/Users/namankabra/erc20HardHat/erc20Token/contracts/Ownable.sol": {
+    "/Users/namankabra/erc20HardHat/contracts/Ownable.sol": {
       "lastModificationDate": 1674394142409,
       "contentHash": "1f557d31134e7899f78153e374d9cf89",
       "sourceName": "contracts/Ownable.sol",
@@ -71,8 +36,8 @@
         "Ownable"
       ]
     },
-    "/Users/namankabra/erc20HardHat/erc20Token/contracts/erc20TokenCustom.sol": {
-      "lastModificationDate": 1674394324129,
+    "/Users/namankabra/erc20HardHat/contracts/erc20TokenCustom.sol": {
+      "lastModificationDate": 1674403466858,
       "contentHash": "172b1093f530a544465883af3112b978",
       "sourceName": "contracts/erc20TokenCustom.sol",
       "solcConfig": {
